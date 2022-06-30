@@ -11,7 +11,7 @@
 - 파일에 저장 / 불러오기
 ---------------------------------
 ### 다이어그램 (일부는 생략되어 있음)
-![0524다이어그램](https://user-images.githubusercontent.com/81701212/176677383-f61ae5c8-31cf-4f87-bce8-b4b6cd36c2aa.png)
+![다이어그램](https://user-images.githubusercontent.com/81701212/176686737-f6040cdf-b51f-47a4-86ef-ff878fafdf4e.png)
 
 ### 그림판 실행 모습
 ![1](https://user-images.githubusercontent.com/81701212/175512485-5c8238f3-e363-4f09-8ed6-92e2ca8a339d.png)
