@@ -22,5 +22,8 @@
 ### Open 메뉴로 Window의 dialog를 열고 선택한 파일 경로 출력
 ![2](https://user-images.githubusercontent.com/81701212/175512490-b7cb37a6-5b0f-488d-ba19-69f4f07e8ea1.png)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/81701212/176680726-49f59f12-df4f-4cbf-a977-44dbfc66ea19.gif)
+![ezgif com-gif-maker_1](https://user-images.githubusercontent.com/81701212/176682276-3d5ff667-3293-488d-8b20-4409f7b6492b.gif)
 
+![ezgif com-gif-maker_2](https://user-images.githubusercontent.com/81701212/176682246-8fe17456-3c5f-44d1-9f39-6283b78844c4.gif)
+
+![ezgif com-gif-maker_3](https://user-images.githubusercontent.com/81701212/176682217-f33d3519-a8ad-478b-b2a4-38bd6a852a56.gif)
