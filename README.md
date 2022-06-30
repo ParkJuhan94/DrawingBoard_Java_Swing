@@ -1,5 +1,5 @@
 # DrawingBoard_Java_Swing
-- Swing으로 GUI 인터페이스 만들기 (그림판 만들기)
+- Java의 Swing으로 GUI 인터페이스 만들기 (그림판 만들기)
 - Library와 응용 프로그램을 별도의 프로젝트로 분리
 - container는 자기가 갖고있는 모든 component 들을 paint 시켜준다.
 - 다양한 component 구현 및 시연
