@@ -12,8 +12,8 @@
 ---------------------------------
 ### ✔️다이어그램 (일부 클래스는 생략되어 있음)
 ![다이어그램](https://user-images.githubusercontent.com/81701212/176686737-f6040cdf-b51f-47a4-86ef-ff878fafdf4e.png)
-
-### ✔️그림판 실행
+---------------------------------
+### ✔️그림판에서 그리기
 ![1](https://user-images.githubusercontent.com/81701212/175512485-5c8238f3-e363-4f09-8ed6-92e2ca8a339d.png)
 
 ### ✔️Save 메뉴로 현재 Frame의 image를 프로젝트의 Root 디렉토리에 저장
