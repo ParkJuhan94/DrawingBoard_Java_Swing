@@ -23,9 +23,10 @@
 ![2](https://user-images.githubusercontent.com/81701212/175512490-b7cb37a6-5b0f-488d-ba19-69f4f07e8ea1.png)
 
 ---------------------------------
-
+### ✔️그림판 동작 영상 (1 -> 2 -> 3)
+- 영상 1
 ![ezgif com-gif-maker_1](https://user-images.githubusercontent.com/81701212/176682276-3d5ff667-3293-488d-8b20-4409f7b6492b.gif)
-
+- 영상 2
 ![ezgif com-gif-maker_2](https://user-images.githubusercontent.com/81701212/176682246-8fe17456-3c5f-44d1-9f39-6283b78844c4.gif)
-
+- 영상 3
 ![ezgif com-gif-maker_3](https://user-images.githubusercontent.com/81701212/176682217-f33d3519-a8ad-478b-b2a4-38bd6a852a56.gif)
