@@ -3,12 +3,15 @@
 - Library와 응용 프로그램을 별도의 프로젝트로 분리
 - container는 자기가 갖고있는 모든 component 들을 paint 시켜준다.
 - 다양한 component 구현 및 시연
+
 ---------------------------------
+
 ### ✔️그림판의 기능:
 - 선분 / 사각형 / 타원 / 그룹화
 - 선색 / 채움색
 - 이동 / 복사 / 삭제
 - 파일에 저장 / 불러오기
+- 
 ---------------------------------
 
 ### ✔️다이어그램 (일부 클래스는 생략되어 있음)
@@ -26,10 +29,13 @@
 ![2](https://user-images.githubusercontent.com/81701212/175512490-b7cb37a6-5b0f-488d-ba19-69f4f07e8ea1.png)
 
 ---------------------------------
+
 ### ✔️그림판 동작 영상 (1 -> 2 -> 3)
-- 영상 1 <br>
+- <영상 1> <br>
 ![ezgif com-gif-maker_1](https://user-images.githubusercontent.com/81701212/176682276-3d5ff667-3293-488d-8b20-4409f7b6492b.gif)
-- 영상 2 <br>
+
+- <영상 2> <br>
 ![ezgif com-gif-maker_2](https://user-images.githubusercontent.com/81701212/176682246-8fe17456-3c5f-44d1-9f39-6283b78844c4.gif)
-- 영상 3 <br>
+
+- <영상 3> <br>
 ![ezgif com-gif-maker_3](https://user-images.githubusercontent.com/81701212/176682217-f33d3519-a8ad-478b-b2a4-38bd6a852a56.gif)
