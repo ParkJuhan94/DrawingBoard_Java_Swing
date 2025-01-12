@@ -19,18 +19,18 @@
 
 ---------------------------------
 
-### ✔️그림판에서 그리기
+### 1) Paint 메뉴로 그리기
 ![1](https://user-images.githubusercontent.com/81701212/175512485-5c8238f3-e363-4f09-8ed6-92e2ca8a339d.png)
 
-### ✔️Save 메뉴로 현재 Frame의 image를 프로젝트의 Root 디렉토리에 저장
+### 2) Save 메뉴로 현재 Frame의 image를 프로젝트의 Root 디렉토리에 저장
 ![3](https://user-images.githubusercontent.com/81701212/175512494-346e46d3-d343-425d-a681-eeb9b4112908.png)
 
-### ✔️Open 메뉴로 Window의 dialog를 열고 선택한 파일 경로 출력
+### 3) Open 메뉴로 Window의 dialog를 열고 선택한 파일 경로 출력
 ![2](https://user-images.githubusercontent.com/81701212/175512490-b7cb37a6-5b0f-488d-ba19-69f4f07e8ea1.png)
 
 ---------------------------------
 
-### ✔️그림판 동작 gif (1 -> 2 -> 3)
+### 그림판 동작 gif (1 -> 2 -> 3)
 - [1] <br>
 ![ezgif com-gif-maker_1](https://user-images.githubusercontent.com/81701212/176682276-3d5ff667-3293-488d-8b20-4409f7b6492b.gif)
 
