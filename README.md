@@ -1,4 +1,4 @@
-# ✨ DrawingBoard_Java_Swing
+
 - Java의 Swing으로 GUI 그림판 만들기
 - Library와 응용 프로그램을 별도의 프로젝트로 분리
 - container는 자기가 갖고있는 모든 component 들을 paint 시켜준다.
